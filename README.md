@@ -1,6 +1,6 @@
 Projeto dos Módulos 4 e 5 do Curso - Lógica de Programação: Praticando com Desafios, do Curso de Lógica de Programação em JavaScript da Alura.
 
-Nesse projeto, foi desenvolvido um código que iria: 
+Nesse projeto, foi desenvolvido um código em JavaScript que iria: 
 - receber nomes em um Array;
 - validar se o nome adicionado era válido (não era um valor vazio);
 - validar se o nome não estava repetido;
